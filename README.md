@@ -1,6 +1,6 @@
 # first
 
-A new Flutter project.
+Dice roll which gives random number from 1-6
 
 ## Getting Started
 
